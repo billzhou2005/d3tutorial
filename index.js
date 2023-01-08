@@ -1,5 +1,5 @@
-import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
-//import * as d3 from 'd3'
+//import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+//import * as d3 from '/node_modules/d3/dist/d3.js'
 //import * as d3 from './node_modules/d3/dist/d3.min.js'
 
 console.log('window.innerWidth', window.innerWidth)
